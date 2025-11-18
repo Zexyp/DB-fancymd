@@ -1,2 +1,9 @@
 # DB-fancymd
-Homeworks I used to troll my teacher with
+Fancy homeworks for lessons of DB
+
+## Obsah
+- [Indexování tabulek záznamů](idxbytbl/README.md)
+- [Předávání parametrů](params/README.md)
+- [Balíčky (Packages)](packin/README.md)
+- [Trigger](triggered/README.md)
+- [Remote Dependencies](remote obj/entry_point.md)
