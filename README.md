@@ -6,4 +6,4 @@ Fancy homeworks for lessons of DB
 - [Předávání parametrů](params/README.md)
 - [Balíčky (Packages)](packin/README.md)
 - [Trigger](triggered/README.md)
-- [Remote Dependencies](remote obj/entry_point.md)
+- [Remote Dependencies](remote_obj/entry_point.md)
